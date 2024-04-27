@@ -7,7 +7,7 @@ The second problem. Even if you have links without random hashes you are not abl
 The third problem. Optiional one. If you have a spreadsheet where you trying to track and manage all of the necessary things for yourself, you need to copy paste things manualy (link to the job description, application date, company name e.t.c) jumping between the tabs back and forward again and agin
 
 ### How does it work
-You need tempermonkey extension https://www.tampermonkey.net/ (or any similar) for your browser to put the script and execute it for LinkedIn domain and subpaths `https://www.linkedin.com/*` - with star at the end (youo can do it in the settings of tempermonkey).
+You need tempermonkey extension https://www.tampermonkey.net/ (or any similar) for your browser to put the script and execute it for LinkedIn domain and subpaths `https://www.linkedin.com/*` - with a star at the end (you can do it in the settings of tempermonkey).
 ![image](https://github.com/maliyshock/linkedin_utility/assets/7099817/701e3792-e5bc-46e0-bda3-d72b00a5634f)
 
 
